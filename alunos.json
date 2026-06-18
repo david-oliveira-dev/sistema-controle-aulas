@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "Ana",
+        "serie": "9º ano",
+        "disciplina": "Matemática",
+        "valor_aula": 130.0,
+        "aulas_por_semana": 2
+    },
+    {
+        "nome": "João",
+        "serie": "8º ano",
+        "disciplina": "Ciências",
+        "valor_aula": 120.0,
+        "aulas_por_semana": 1
+    },
+    {
+        "nome": "Maria",
+        "serie": "1ª série EM",
+        "disciplina": "Física",
+        "valor_aula": 150.0,
+        "aulas_por_semana": 1
+    },
+    {
+        "nome": "Carlos",
+        "serie": "7º ano",
+        "disciplina": "Matemática",
+        "valor_aula": 120.0,
+        "aulas_por_semana": 2
+    },
+    {
+        "nome": "Beatriz",
+        "serie": "2ª série EM",
+        "disciplina": "Física",
+        "valor_aula": 150.0,
+        "aulas_por_semana": 2
+    }
+]

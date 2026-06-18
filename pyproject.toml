@@ -1,0 +1,23 @@
+[project]
+name = "sistema-controle-aulas"
+version = "1.0.0"
+description = "Sistema de controle de aulas particulares (projeto de estudos em Engenharia de Software)."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "David Oliveira", email = "davidoliveira.devbr@gmail.com" }]
+keywords = ["python", "estudos", "poo", "cli", "engenharia-de-software"]
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/david-oliveira-dev/sistema-controle-aulas"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+# Os notebooks são material de estudo (mostram a evolução do código,
+# inclusive versões iniciais) — o lint foca no código de produção (.py).
+extend-exclude = ["*.ipynb"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
