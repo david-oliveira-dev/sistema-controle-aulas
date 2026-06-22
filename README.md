@@ -73,3 +73,8 @@ valor mensal = valor da aula × aulas por semana × 4 (semanas no mês)
 - transformar o sistema em uma **API** (FastAPI / Flask);
 - adicionar interface gráfica ou web;
 - versionar o projeto com **Git/GitHub**.
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-oliveira-9970a42a5)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/david-oliveira-dev)
